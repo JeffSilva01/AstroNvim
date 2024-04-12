@@ -12,7 +12,6 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.prisma" },
-  { import = "astrocommunity.completion.tabnine-nvim" },
   { import = "astrocommunity.colorscheme.tokyonight-nvim" },
   { import = "astrocommunity.colorscheme.catppuccin" },
 }
